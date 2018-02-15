@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1410413628 source:g:\codeblocks\algorithms\chainingstrings.c
+
+1410413628 source:g:\codeblocks\chaingingstrings\chainingstrings.c
+
+1410414174 source:g:\codeblocks\chaingingstrings\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1395296910 source:g:\codeblocks\programs\program1.c
+	<stdio.h>
+	<conio.h>
+	<malloc.h>
+
+1409226161 source:g:\codeblocks\algorithms\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1409225684 source:g:\codeblocks\algorithms\frogleap.c
+
+1409226126 source:g:\codeblocks\algorithms\frogy.c
+

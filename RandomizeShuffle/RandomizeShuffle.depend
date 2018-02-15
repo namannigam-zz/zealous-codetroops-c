@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1426690939 source:d:\codeblocks\randomizeshuffle\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<algorithm>
+	<vector>
+

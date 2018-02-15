@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1441557800 source:d:\codeblocks\nonuniquechar\main.cpp
+	<iostream>
+	<cmath>
+	<cstring>
+	<string>
+	<string.h>
+	<bitset>
+	<algorithm>
+	<vector>
+	<set>
+	<limits.h>
+	<map>
+	<stack>
+	<stdio.h>
+	<queue>
+

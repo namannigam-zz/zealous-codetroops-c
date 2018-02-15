@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1425016013 source:g:\codeblocks\fifteenpuzzle\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1426871210 source:d:\codeblocks\fifteenpuzzle\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<vector>
+	<algorithm>
+	<ctype.h>
+
