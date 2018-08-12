@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1424406217 source:g:\codeblocks\projecteuler\032pandigital\main.c
+	<stdio.h>
+	<stdlib.h>
+

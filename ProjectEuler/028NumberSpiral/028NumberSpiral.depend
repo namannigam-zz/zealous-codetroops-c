@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1424166844 source:g:\codeblocks\projecteuler\028numberspiral\main.c
+	<stdio.h>
+	<stdlib.h>
+

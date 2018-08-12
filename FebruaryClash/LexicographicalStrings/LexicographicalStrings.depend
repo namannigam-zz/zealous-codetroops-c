@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1424532170 source:d:\codeblocks\februaryclash\lexicographicalstrings\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+

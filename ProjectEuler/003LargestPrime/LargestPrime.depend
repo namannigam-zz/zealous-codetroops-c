@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1422875115 source:g:\codeblocks\projecteuler\largestprime\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1424232333 source:g:\codeblocks\projecteuler\031coinsum_coinchangeproblem\main.c
+	<stdio.h>
+	<stdlib.h>
+

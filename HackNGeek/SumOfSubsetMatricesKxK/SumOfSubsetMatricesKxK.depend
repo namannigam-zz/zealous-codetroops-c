@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1411454619 source:g:\codeblocks\sumofsubsetmatriceskxk\alternate.c
+
+1411453979 source:g:\codeblocks\sumofsubsetmatriceskxk\first.c
+
+1411453962 source:g:\codeblocks\sumofsubsetmatriceskxk\main.c
+	<stdio.h>
+	<stdlib.h>
+

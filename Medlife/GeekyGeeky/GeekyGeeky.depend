@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1423387258 source:d:\codeblocks\medlife\geekygeeky\main.c
+	<stdio.h>
+	<stdlib.h>
+

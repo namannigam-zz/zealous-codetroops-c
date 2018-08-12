@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1411668378 source:f:\codeblocks\chocoalateswrapper\wrapperchocolates\main.c
+	<stdio.h>
+	<stdlib.h>
+

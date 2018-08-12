@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1423413789 source:d:\codeblocks\grabhouse\permute\main.c
+	<stdio.h>
+	<stdlib.h>
+

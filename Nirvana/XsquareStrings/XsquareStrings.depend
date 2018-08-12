@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1424599808 source:d:\codeblocks\nirvana\xsquarestrings\main.cpp
+	<iostream>
+	<iostream>
+	<cmath>
+	<cstring>
+	<string>
+	<bitset>
+	<algorithm>
+	<vector>
+	<set>
+	<limits.h>
+	<map>
+	<stack>
+	<stdio.h>
+	<queue>
+	<ctype.h>
+	<stdlib.h>
+

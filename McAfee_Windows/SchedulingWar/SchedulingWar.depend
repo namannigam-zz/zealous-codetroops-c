@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1428675961 source:d:\codeblocks\hiring challenges\mcafee_windows\schedulingwar\main.cpp
+	<iostream>
+	<cmath>
+	<cstring>
+	<string>
+	<string.h>
+	<bitset>
+	<algorithm>
+	<vector>
+	<set>
+	<limits.h>
+	<map>
+	<stack>
+	<stdio.h>
+	<queue>
+

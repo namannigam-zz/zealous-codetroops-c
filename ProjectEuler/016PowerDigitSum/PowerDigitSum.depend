@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1423146994 source:d:\codeblocks\prjecteuler\powerdigitsum\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

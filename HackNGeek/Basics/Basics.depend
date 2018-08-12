@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1409157927 source:c:\users\naman nigam\documents\code blocks\basics\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1409161280 source:c:\users\naman nigam\documents\code blocks\basics\basicpart1.c
+	<stdio.h>
+	<stdlib.h>
+
+1409161280 source:c:\users\naman nigam\documents\code blocks\basics\basics(1).c
+	<stdio.h>
+	<stdlib.h>
+
+1409161280 source:c:\users\naman nigam\documents\code blocks\basics\basics(3).c
+	<stdio.h>
+	<stdlib.h>
+
+1409161280 source:c:\users\naman nigam\documents\code blocks\basics\basics(4).c
+	<stdio.h>
+	<stdlib.h>
+
+1409161280 source:c:\users\naman nigam\documents\code blocks\basics\basics(5).c
+	<stdio.h>
+	<stdlib.h>
+
+1409161280 source:c:\users\naman nigam\documents\code blocks\basics\basics(6).c
+	<stdio.h>
+	<stdlib.h>
+
+1409161280 source:c:\users\naman nigam\documents\code blocks\basics\basics(7).c
+	<stdio.h>
+	<stdlib.h>
+
+1409161280 source:c:\users\naman nigam\documents\code blocks\basics\basics(8).c
+	<stdio.h>
+	<stdlib.h>
+
+1409161280 source:c:\users\naman nigam\documents\code blocks\basics\basics(9).c
+	<stdio.h>
+	<stdlib.h>
+
+1409162426 source:c:\users\naman nigam\documents\code blocks\basics\basics(2).c
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+
+1409193087 source:c:\users\naman nigam\documents\code blocks\basics\basicspart1.c
+	<stdio.h>
+	<stdlib.h>
+
+1409192135 source:c:\users\naman nigam\documents\code blocks\basics\basicspart2.c
+	<stdlib.h>
+
+1409193057 source:c:\users\naman nigam\documents\code blocks\basics\basicspart3.c
+

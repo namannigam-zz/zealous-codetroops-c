@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1424608002 source:d:\codeblocks\nirvana\themagic\main.c
+	<stdio.h>
+	<stdlib.h>
+

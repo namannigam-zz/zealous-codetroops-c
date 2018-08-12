@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1428841175 source:d:\codeblocks\hiring challenges\mcafee_windows\xstring_diff\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+

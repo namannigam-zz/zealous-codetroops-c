@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1423885400 source:d:\codeblocks\codewarz\ladder2heaven\main.c
+	<stdio.h>
+	<stdlib.h>
+

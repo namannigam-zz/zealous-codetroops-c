@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1415040117 source:f:\codeblocks\pancard\random\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

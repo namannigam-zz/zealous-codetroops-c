@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1427556353 source:d:\codeblocks\dandimarch\q4\main.cpp
+	<iostream>
+	<algorithm>
+	<ctype.h>
+	<conio.h>
+	<string>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1411404521 source:c:\users\naman nigam\documents\code blocks\leibniz\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

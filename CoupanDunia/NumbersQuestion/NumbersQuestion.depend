@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1425721846 source:d:\codeblocks\coupandunia\numbersquestion\main.cpp
+	<iostream>
+	<cmath>
+	<cstring>
+	<string>
+	<bitset>
+	<algorithm>
+	<vector>
+	<set>
+	<limits.h>
+	<map>
+	<stack>
+	<stdio.h>
+	<queue>
+

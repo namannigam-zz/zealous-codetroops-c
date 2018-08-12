@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1426931018 source:d:\codeblocks\metricstream\beautifulprime\main.cpp
+	<iostream>
+	<math.h>
+	<algorithm>
+	<ctype.h>
+

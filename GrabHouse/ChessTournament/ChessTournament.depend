@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1423448114 source:d:\codeblocks\grabhouse\chesstournament\main.c
+	<stdio.h>
+	<stdlib.h>
+

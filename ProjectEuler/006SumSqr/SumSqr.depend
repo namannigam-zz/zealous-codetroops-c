@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1423448241 source:g:\codeblocks\projecteuler\sumsqr\main.c
+	<stdio.h>
+	<stdlib.h>
+

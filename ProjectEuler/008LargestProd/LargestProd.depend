@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1422948041 source:g:\codeblocks\projecteuler\largestprod\main.c
+	<stdio.h>
+	<string.h>
+
+1423448230 source:g:\codeblocks\projecteuler\008largestprod\main.c
+	<stdio.h>
+	<string.h>
+
